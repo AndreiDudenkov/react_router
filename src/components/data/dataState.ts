@@ -1,16 +1,16 @@
 export const dataState: DataStateType={
     pages:[
         {
-            heading:"while",
-            about:"about while"
+            heading:"Messages",
+            about:"Missage_1"
         },
         {
-            heading:"for",
-            about:"about for"
+            heading:"Friends",
+            about:"My friends"
         },
         {
-            heading:"switch",
-            about:"about switch"
+            heading:"Settings",
+            about:"Settings of account"
         }
     ]
 }
